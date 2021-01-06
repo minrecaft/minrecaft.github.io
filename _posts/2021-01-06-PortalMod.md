@@ -1,6 +1,4 @@
 ---
-header:
-  teaser: {{minrecaft.github.io}}/assets/images/portal.jpg
 title: "Portal 2 minecraft mod"
 date: 2021-01-06T20:30:00-04:00
 categories:
@@ -10,6 +8,8 @@ tags:
   - action
   - single player
 ---
+
+![image](/assets/images/portal.jpg)
 
 This **minecraft mod** adds portals to the game.
 
