@@ -2,9 +2,9 @@
 title: "JDownloader"
 date: 2021-01-06T19:00:30-04:00
 categories:
-  - utility
+  - program
 tags:
-  - downloader
+  - utility
   - 7z
 ---
 
