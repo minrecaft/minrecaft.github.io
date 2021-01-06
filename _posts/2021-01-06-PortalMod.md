@@ -1,6 +1,6 @@
 ---
 header:
-  teaser: /assets/images/portal.jpg
+  teaser: {{minrecaft.github.io}}/assets/images/portal.jpg
 title: "Portal 2 minecraft mod"
 date: 2021-01-06T20:30:00-04:00
 categories:
