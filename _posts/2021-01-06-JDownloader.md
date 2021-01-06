@@ -5,7 +5,6 @@ categories:
   - program
 tags:
   - utility
-  - 7z
 ---
 
 JDownloader is useful for downloading split zip files. You will need **7zip** to extract the program.
