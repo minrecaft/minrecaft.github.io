@@ -16,3 +16,5 @@ tags:
 SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.
 
 [Google Drive](https://drive.google.com/file/d/1Xvfi4X9n0oH1dOwjHipaZP4cu3OBZIM2/view?usp=sharing)
+
+[supertuxkart.net](https://github.com/supertuxkart/stk-code/releases/download/1.2/SuperTuxKart-1.2-win.zip)
